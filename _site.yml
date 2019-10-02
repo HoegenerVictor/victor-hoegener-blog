@@ -14,5 +14,6 @@ navbar:
 base_url: http://HoegenerVictor.github.io/victor-hoegener-blog/
 collections:
     posts:
+    disqus: victor-hoegener-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
