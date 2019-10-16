@@ -1,12 +1,11 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "CRISPR enters its first human trials"
+description: |
+
 author:
-  - name: Nicolas Devilez
-date: 09-18-2019
-categories:
-  - elephant
-  - track
-preview: image/where-s-my-elephant.jpg
+  - name: Hoegener Victor
+date: 10-16-2019
+preview: images/Crispr_Cas9.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -16,8 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+![](https://www.sciencenewsforstudents.org/sites/default/files/scald-image/080819_ti_crisprsicklecell_feat-1028x579.jpg)
 
 ## Vocabulary 
 
@@ -39,6 +37,3 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 <https://www.sciencenewsforstudents.org/article/crispr-enters-its-first-human-trials>
-
-
-
