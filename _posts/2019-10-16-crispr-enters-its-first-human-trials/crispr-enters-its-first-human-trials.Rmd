@@ -5,6 +5,7 @@ description: |
 author:
   - name: Hoegener Victor
 date: 10-16-2019
+categories:
 preview: images/Crispr_Cas9.jpg
 output:
   distill::distill_article:
