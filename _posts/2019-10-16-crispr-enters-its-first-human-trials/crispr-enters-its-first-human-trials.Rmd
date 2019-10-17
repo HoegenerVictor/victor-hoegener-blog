@@ -1,12 +1,12 @@
 ---
 title: "CRISPR enters its first human trials"
-description: |
+description: 
 
 author:
   - name: Hoegener Victor
 date: 10-16-2019
 categories:
-preview: images/Crispr_Cas9.jpg
+preview: images/Crispr-Cas9.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -18,6 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 The gene-editing technology will target cancer, blood disorders and blindness
+
 By Tina Hesman Saey    Sep 16, 2019 — 6:45 am EST
 
 
@@ -73,19 +74,26 @@ Even if these first trials don’t work quite as hoped, CRISPR won’t be shelve
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| to get underway   | to start                   |
+| to chop                    | to cut into pieces         |
+| under way                    | in progress         |
+| sickle-cell disease                    | inherited red blood cell disorders         |
+| womb                    | uterus         |
+| grab (sth) from                    | extract, take something         |
+| harmless                    | inoffensive         |
+| arguably                    | can be defended         |
+| to shelve                    | to put (sth) aside, to abandon |
+| to live up to (sth)                    | be as good as         |
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Researchers                  | Tina Hensman Saey, senior staff writer on molecular biology for ScienceNews                        |
+| Published in?                | September 16, 2019                                                       |
+| General topic?               |  the article shows the fields of study that employ the technology of Crispr Case 9. This research would cure hereditary diseases                      |
+| Conclusions/discovery?       |  this technology has yet to prove conclusive results      |
+| Remaining questions?         | how far can we go to modify the human genome? |
 
 
 <https://www.sciencenewsforstudents.org/article/crispr-enters-its-first-human-trials>
