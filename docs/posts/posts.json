@@ -2,7 +2,7 @@
   {
     "path": "posts/2019-10-16-crispr-enters-its-first-human-trials/",
     "title": "CRISPR enters its first human trials",
-    "description": {},
+    "description": "The CRISPR-Cas9 genome editing technique was discovered by a French researcher Emmanuelle Charpentier collaborating with an American Jennifer Doudna. This tools  allow modifying genome sequences with precision and open the way of new discoveries. Reseachers are working on different applications such as prevent or cure diseases.",
     "author": [
       {
         "name": "Hoegener Victor",
@@ -12,6 +12,6 @@
     "date": "2019-10-16",
     "categories": [],
     "preview": "posts/2019-10-16-crispr-enters-its-first-human-trials/images/Crispr-Cas9.jpg",
-    "last_modified": "2019-10-17T19:24:14+02:00"
+    "last_modified": "2019-10-20T12:23:09+02:00"
   }
 ]

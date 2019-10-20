@@ -1,11 +1,10 @@
 ---
 title: "CRISPR enters its first human trials"
-description: 
+description: The CRISPR-Cas9 genome editing technique was discovered by a French researcher Emmanuelle Charpentier collaborating with an American Jennifer Doudna. This tools  allow modifying genome sequences with precision and open the way of new discoveries. Reseachers are working on different applications such as prevent or cure diseases.
 
 author:
   - name: Hoegener Victor
 date: 10-16-2019
-categories:
 preview: images/Crispr-Cas9.jpg
 output:
   distill::distill_article:
@@ -91,7 +90,7 @@ Even if these first trials don’t work quite as hoped, CRISPR won’t be shelve
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Tina Hensman Saey, senior staff writer on molecular biology for ScienceNews                        |
 | Published in?                | September 16, 2019                                                       |
-| General topic?               |  the article shows the fields of study that employ the technology of Crispr Case 9. This research would cure hereditary diseases                      |
+| General topic?               |  the article shows the fields of study that employ the technology of Crispr Cas 9. This research would cure hereditary diseases                      |
 | Conclusions/discovery?       |  this technology has yet to prove conclusive results      |
 | Remaining questions?         | how far can we go to modify the human genome? |
 
