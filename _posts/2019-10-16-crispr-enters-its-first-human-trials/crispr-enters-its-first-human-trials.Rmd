@@ -1,5 +1,5 @@
 ---
-title: "CRISPR enters its first human trials"
+title: "Article 1 : CRISPR enters its first human trials"
 description: The CRISPR-Cas9 genome editing technique was discovered by a French researcher Emmanuelle Charpentier collaborating with an American Jennifer Doudna. This tools  allow modifying genome sequences with precision and open the way of new discoveries. Reseachers are working on different applications such as prevent or cure diseases.
 
 author:

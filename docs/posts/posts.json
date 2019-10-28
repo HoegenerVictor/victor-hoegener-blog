@@ -1,7 +1,24 @@
 [
   {
+    "path": "posts/2019-10-28-what-your-dna-cant-tell-you/",
+    "title": "Article 2 : What your DNA Can't tell you",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Hoegener Victor",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-28",
+    "categories": [],
+    "preview": "posts/2019-10-28-what-your-dna-cant-tell-you/images/genome-banner.png",
+    "last_modified": "2019-10-28T12:41:13+01:00",
+    "preview_width": 1800,
+    "preview_height": 720
+  },
+  {
     "path": "posts/2019-10-16-crispr-enters-its-first-human-trials/",
-    "title": "CRISPR enters its first human trials",
+    "title": "Article 1 : CRISPR enters its first human trials",
     "description": "The CRISPR-Cas9 genome editing technique was discovered by a French researcher Emmanuelle Charpentier collaborating with an American Jennifer Doudna. This tools  allow modifying genome sequences with precision and open the way of new discoveries. Reseachers are working on different applications such as prevent or cure diseases.",
     "author": [
       {
@@ -12,6 +29,6 @@
     "date": "2019-10-16",
     "categories": [],
     "preview": "posts/2019-10-16-crispr-enters-its-first-human-trials/images/Crispr-Cas9.jpg",
-    "last_modified": "2019-10-20T12:47:27+02:00"
+    "last_modified": "2019-10-28T12:16:17+01:00"
   }
 ]
