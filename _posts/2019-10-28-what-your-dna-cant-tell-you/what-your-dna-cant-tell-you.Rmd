@@ -56,22 +56,22 @@ In principle, if consumers understand the limitations of polygenic scores, findi
 ## Vocabulary
 
 | Words from the text | Synonym/explanation in English |
-|.------------------- | ------------------------------ |
-| exhaustion | extreme tiredness |
-| attainment | achievement, act of attaining |
-| to provide (sth) | to supply, to furnish |
-| to harness (sth) | to make use of (sth) |
-|                     |                                |
-|                     |                                |
-|                     |                                |
+| ------------------- | ------------------------------ |
+| exhaustion   | extreme tiredness                   |
+| attainment                    | achievement, act of attaining         |
+| to provide (sth)                    | to supply, to furnish         |
+| to harness (sth)                    | to make use of (sth)         |
+
 
 ## Analysis table
 
-| Researchers            |     |
-| Published in?          |     |
-| General topic?         |     |
-| What was examined?     |     |
-| Conclusions/discovery? |     |
-| Remaining questions?   |     |
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | DIANA KWON, a freelance journalist based in Berlin                        |
+| Published in?                | October 2, 2019                                                       |
+| General topic?               |                        |
+| What was examined?       |        |
+| Conclusions/discovery?       |        |
+| Remaining questions?         |        |
 
 <https://www.the-scientist.com/news-opinion/what-your-dna-cant-tell-you-66523>
