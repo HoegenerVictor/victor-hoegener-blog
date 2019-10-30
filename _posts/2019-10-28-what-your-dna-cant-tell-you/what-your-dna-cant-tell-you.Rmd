@@ -1,7 +1,7 @@
 ---
 title: "Article 2 : What your DNA Can't tell you"
 description: |
-  A short description of the post.
+  Since it is possible to obtain the sequence of our genome from laboratories, scientists warn consumers to misinterpret the analyzes. For example, is intelligence inscribed in our genes?
 author:
   - name: Hoegener Victor
     url: {}
@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-What Your DNA Can’t Tell You
+#What Your DNA Can’t Tell You
 
 Companies are selling reports about a wide range of physical, cognitive, and behavioral traits to consumers based on their genomic data, but such tests have a number of limitations.
 
@@ -57,10 +57,14 @@ In principle, if consumers understand the limitations of polygenic scores, findi
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| exhaustion   | extreme tiredness                   |
-| attainment                    | achievement, act of attaining         |
+| exhaustion *n*  | extreme tiredness                   |
+| attainment *n*                   | achievement, act of attaining         |
 | to provide (sth)                    | to supply, to furnish         |
 | to harness (sth)                    | to make use of (sth)         |
+| relevant *adj*                    | pertinent         |
+| shortcoming *n*                    | inadequacy, failing         |
+| underliying *adj*                    | implicite significance         |
+| disclaimer *n*                    | refusal of responsibility         |
 
 
 ## Analysis table
