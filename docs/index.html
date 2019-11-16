@@ -1259,8 +1259,24 @@
   <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
+  <style type="text/css">
+  .distill-site-nav {
+    color: white;
+    background-color: #6A7EA3;
+    font-size: 15px;
+    font-weight: 300;
+  }
+  
+  @media print {
+    .distill-site-nav {
+      display: none;
+    }
+  }
+  
+  </style>
   <!--/radix_placeholder_site_in_header-->
 
+  <link rel="stylesheet" href="styles.css" type="text/css"/>
 
 </head>
 
@@ -1277,6 +1293,9 @@
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
+<span class="logo">
+<img src="images/ADN.png"/>
+</span>
 <a href="index.html" class="title">Victor's Blog</a>
 </div>
 <div class="nav-right">
@@ -1621,7 +1640,7 @@ function init_posts_list() {
 <img/>
 </div>
 <div class="description">
-<h2>My english activity log</h2>
+<h2>My english activity log M.E.A.L</h2>
 <p>A short description of the post.</p>
 </div>
 </a>

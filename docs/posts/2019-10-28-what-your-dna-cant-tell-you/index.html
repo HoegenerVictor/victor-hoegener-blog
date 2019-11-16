@@ -1285,6 +1285,21 @@ document.addEventListener('DOMContentLoaded', function() {
   <script src="../../site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="../../site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
+<style type="text/css">
+.distill-site-nav {
+  color: white;
+  background-color: #6A7EA3;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+@media print {
+  .distill-site-nav {
+    display: none;
+  }
+}
+
+</style>
 <!--/radix_placeholder_site_in_header-->
 
 
@@ -1303,6 +1318,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
+<span class="logo">
+<img src="../../images/ADN.png"/>
+</span>
 <a href="../../index.html" class="title">Victor's Blog</a>
 </div>
 <div class="nav-right">
