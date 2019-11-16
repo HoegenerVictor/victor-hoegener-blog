@@ -1,0 +1,54 @@
+---
+title: "Gene Editing Humans: It's Not Just about Safety"
+description: |
+  A short description of the post.
+author:
+  - name: Hoegener Victor
+    url: {}
+date: 11-16-2019
+preview: images/gene_editing.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| renegade *adj*  | rebel                   |
+| a framework *n*                   | system, basic structrue underlying a concept         |
+| a bench *n*                    |  a long work table        |
+| to blur *v*                    | to become indistinct         |
+| intractable *adj*                    | hard to control, unmanageable         |
+| likelihood *n*                    | probability         |
+| to assert *v*                   | declare, speak in a confident manner         |
+| to strive *n*                    | make great effort to         |
+| to nurture (sb)                    | to protect while they are growing         |
+| a long way off                    | far away         |
+| a polling *n*                   | voting         |
+| to sustain *v*                    | to support physically or mentally        |
+|                     |          |
+|                     |          |
+|                     |          |
+
+## Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | By Mildred Z. Solomon                        |
+| Published in?                | August 20, 2019                                                       |
+| General topic?               | The scientific community wants to set limits on the experiments made on the human germ line. Indeed, in the past two years, Chinese and Russian researchers have shocked the world by trying to manipulate human embryos.                      |
+| What was examined?       |      |
+| Conclusions/discovery?       |        |
+| Remaining questions?         | how to solve the ethical problems related to these technologies for the future?       |
+
+
+<https://blogs.scientificamerican.com/observations/gene-editing-humans-its-not-just-about-safety/>
+
+

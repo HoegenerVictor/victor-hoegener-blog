@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-16-gene-editing-humans-its-not-just-about-safety/",
+    "title": "Gene Editing Humans: It's Not Just about Safety",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Hoegener Victor",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-16",
+    "categories": [],
+    "preview": "posts/2019-11-16-gene-editing-humans-its-not-just-about-safety/images/gene_editing.jpg",
+    "last_modified": "2019-11-16T23:50:18+01:00"
+  },
+  {
     "path": "posts/2019-11-06-my-english-activity-log/",
     "title": "My english activity log M.E.A.L",
     "description": "A short description of the post.",
