@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-#What Your DNA Can’t Tell You
+# What Your DNA Can’t Tell You
 
 Companies are selling reports about a wide range of physical, cognitive, and behavioral traits to consumers based on their genomic data, but such tests have a number of limitations.
 
