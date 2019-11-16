@@ -18,12 +18,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 The gene-editing technology will target cancer, blood disorders and blindness
 
-By Tina Hesman Saey
 
 
-![](https://www.sciencenewsforstudents.org/sites/default/files/scald-image/080819_ti_crisprsicklecell_feat-1028x579.jpg)
 *Scientists are beginning human trials to treat disease with the “molecular scissors” known as CRISPR/Cas9. Some people with a form of inherited blindness will have it injected into their eyes, where researchers hope it will snip out a mutation.*
-(TRAFFIC_ANALYZER/GETTY IMAGES PLUS)
+
 
 The answer to some genetic diseases may be a powerful “molecular scissors.” Known as CRISPR/Cas9, it has healed genetic diseases in some animals. Soon, doctors may learn how well it works in people. The first human studies to test its promise are just getting underway. 
 
