@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2019-11-16-gene-editing-humans-its-not-just-about-safety/",
-    "title": "Gene Editing Humans: It's Not Just about Safety",
-    "description": "A short description of the post.",
+    "title": "Article 3 : Gene Editing Humans: It's Not Just about Safety",
+    "description": "In november 2018, He Jiankui, a chinese scientist shocked the world editing two embryos and letting them grow. A community of scientists got together to fix guidelines for human germ line editing that scientists have to follow.",
     "author": [
       {
         "name": "Hoegener Victor",
@@ -12,12 +12,12 @@
     "date": "2019-11-16",
     "categories": [],
     "preview": "posts/2019-11-16-gene-editing-humans-its-not-just-about-safety/images/gene_editing.jpg",
-    "last_modified": "2019-11-16T23:50:18+01:00"
+    "last_modified": "2019-11-17T12:01:13+01:00"
   },
   {
     "path": "posts/2019-11-06-my-english-activity-log/",
     "title": "My english activity log M.E.A.L",
-    "description": "A short description of the post.",
+    "description": "Find all my activities to improve my English.",
     "author": [
       {
         "name": "Hoegener Victor",
@@ -27,7 +27,7 @@
     "date": "2019-11-06",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-16T16:47:16+01:00"
+    "last_modified": "2019-11-17T11:07:23+01:00"
   },
   {
     "path": "posts/2019-10-28-what-your-dna-cant-tell-you/",

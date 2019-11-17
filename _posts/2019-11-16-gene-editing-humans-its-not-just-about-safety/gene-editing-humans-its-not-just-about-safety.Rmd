@@ -1,7 +1,7 @@
 ---
-title: "Gene Editing Humans: It's Not Just about Safety"
+title: "Article 3 : Gene Editing Humans: It's Not Just about Safety"
 description: |
-  A short description of the post.
+  In november 2018, He Jiankui, a chinese scientist shocked the world editing two embryos and letting them grow. A community of scientists got together to fix guidelines for human germ line editing that scientists have to follow.
 author:
   - name: Hoegener Victor
     url: {}
@@ -33,9 +33,6 @@ knitr::opts_chunk$set(echo = FALSE)
 | a long way off                    | far away         |
 | a polling *n*                   | voting         |
 | to sustain *v*                    | to support physically or mentally        |
-|                     |          |
-|                     |          |
-|                     |          |
 
 ## Analysis table
 
@@ -44,8 +41,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  | By Mildred Z. Solomon                        |
 | Published in?                | August 20, 2019                                                       |
 | General topic?               | The scientific community wants to set limits on the experiments made on the human germ line. Indeed, in the past two years, Chinese and Russian researchers have shocked the world by trying to manipulate human embryos.                      |
-| What was examined?       |      |
-| Conclusions/discovery?       |        |
+| What was examined?       | L'article aborde deux aspects, d'une part le développement de technologies permettant de modifier le génome, qui ne sont pas entièrement comprises et qui peuvent avoir des effets secondaires. D'autre part, l'impact de ces technologies sur les générations futures. C'est pourquoi les organisations se réunissent pour discuter de questions éthiques. Si nous parvenons à modifier la lignée germinale en toute sécurité, l’humanité voudra l’appliquer de manière malsaine. Par exemple, il sera possible de "renforcer" l'humanité telle que nous la souhaitons. Comme Michael Sandel de l’Université de Harvard a déclaré "nous perdrions le sens des enfants comme des cadeaux à nourrir au fur et à mesure qu’ils viennent à nous et les considérons plutôt comme des objets que nous avons conçus". Si le sujet fait débat, c'est parce qu'il faut sensibiliser la population des implications de ces nouvelles technologies.     |
+| Conclusions/discovery?       | Collective work is important to make these technologies safer.       |
 | Remaining questions?         | how to solve the ethical problems related to these technologies for the future?       |
 
 
