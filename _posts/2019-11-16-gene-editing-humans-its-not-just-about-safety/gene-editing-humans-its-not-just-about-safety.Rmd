@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | likelihood *n*                    | probability         |
 | to assert *v*                   | declare, speak in a confident manner         |
 | to strive *n*                    | make great effort to         |
-| to nurture (sb)                    | to protect while they are growing         |
+| to nurture (sb) *v*                   | to protect while they are growing         |
 | a long way off                    | far away         |
 | a polling *n*                   | voting         |
 | to sustain *v*                    | to support physically or mentally        |
@@ -41,7 +41,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  | By Mildred Z. Solomon                        |
 | Published in?                | August 20, 2019                                                       |
 | General topic?               | The scientific community wants to set limits on the experiments made on the human germ line. Indeed, in the past two years, Chinese and Russian researchers have shocked the world by trying to manipulate human embryos.                      |
-| What was examined?       | L'article aborde deux aspects, d'une part le développement de technologies permettant de modifier le génome, qui ne sont pas entièrement comprises et qui peuvent avoir des effets secondaires. D'autre part, l'impact de ces technologies sur les générations futures. C'est pourquoi les organisations se réunissent pour discuter de questions éthiques. Si nous parvenons à modifier la lignée germinale en toute sécurité, l’humanité voudra l’appliquer de manière malsaine. Par exemple, il sera possible de "renforcer" l'humanité telle que nous la souhaitons. Comme Michael Sandel de l’Université de Harvard a déclaré "nous perdrions le sens des enfants comme des cadeaux à nourrir au fur et à mesure qu’ils viennent à nous et les considérons plutôt comme des objets que nous avons conçus". Si le sujet fait débat, c'est parce qu'il faut sensibiliser la population des implications de ces nouvelles technologies.     |
+| What was examined?       | The article addresses two aspects, on the one hand the development of technologies to modify the genome, which are not fully understood and which can have side effects. On the other hand, the impact of these technologies on future generations. This is why organizations come together to discuss ethical issues. If we succeed in modifying the germ line safely, humanity will want to apply it unhealthily. For example, it will be possible to "strengthen" humanity as we want, select our children's characters and cure diseases to the source. As Michael Sandel of Harvard University said, "we would lose the sense of children as gifts to feed as they come to us and see them as objects we have designed." If the subject is debated, it is because we must sensitize the population of the implications of these new technologies.
+     |
 | Conclusions/discovery?       | Collective work is important to make these technologies safer.       |
 | Remaining questions?         | how to solve the ethical problems related to these technologies for the future?       |
 
