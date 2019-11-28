@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-28-scientists-program-crispr-to-fight-viruses-in-human-cells/",
+    "title": "Article 4 : Scientists Program CRISPR to Fight Viruses in Human Cells",
+    "description": "Crisper-Cas13 is a promising method to fight against viruses such as Ebola or influenza.",
+    "author": [
+      {
+        "name": "Hoegener Victor",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-28",
+    "categories": [],
+    "preview": "posts/2019-11-28-scientists-program-crispr-to-fight-viruses-in-human-cells/images/viruse_influenza.jpg",
+    "last_modified": "2019-11-28T15:04:16+01:00"
+  },
+  {
     "path": "posts/2019-11-16-gene-editing-humans-its-not-just-about-safety/",
     "title": "Article 3 : Gene Editing Humans: It's Not Just about Safety",
     "description": "In november 2018, He Jiankui, a chinese scientist shocked the world editing two embryos and letting them grow. A community of scientists got together to fix guidelines for human germ line editing that scientists have to follow.",
@@ -42,7 +57,7 @@
     "date": "2019-10-28",
     "categories": [],
     "preview": "posts/2019-10-28-what-your-dna-cant-tell-you/images/genome-banner.png",
-    "last_modified": "2019-11-12T11:44:17+01:00",
+    "last_modified": "2019-11-28T15:07:49+01:00",
     "preview_width": 1800,
     "preview_height": 720
   },
@@ -59,6 +74,6 @@
     "date": "2019-10-16",
     "categories": [],
     "preview": "posts/2019-10-16-crispr-enters-its-first-human-trials/images/Crispr-Cas9.jpg",
-    "last_modified": "2019-11-12T11:46:41+01:00"
+    "last_modified": "2019-11-28T15:06:46+01:00"
   }
 ]
