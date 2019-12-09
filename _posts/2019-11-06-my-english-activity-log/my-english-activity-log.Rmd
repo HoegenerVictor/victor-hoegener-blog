@@ -16,5 +16,19 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+  November 7th: I discoverd the application LyricsTraining which is so fun to use. 
+
+  November 29th: I browse the book *Evolution the whole story* to learn more about prehistoric animals.
+
+  December 4th: I read five chapters of *Hunger Games*. The book is wroten with a complicated vocabulary but I understand the meaning because I saw the movie.
+  
+  December 7th: I watched *Imitation Game* in original version. The story takes place in America during World War II. We are following the life of Alan Turing in the construction of Enigma, a machine able to translate nazi codes. 
+
+
+
+
+
+
+
 
 
