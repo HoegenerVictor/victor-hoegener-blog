@@ -1,7 +1,7 @@
 ---
 title: "Article 5 : Laboratory-evolved bacteria switch to consuming carbon dioxide for growth"
 description: |
-  A short description of the post.
+  Researchers have discovered a strain of E. coli that can use CO2 as energy for metabolism. This discovery paves the way for carbon-neutral industrial production.
 author:
   - name: Hoegener Victor
     url: {}
@@ -21,28 +21,31 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| a strain *n*  | a new variety of, a lineage                   |
+| the strain *n*  | a new variety of (sth), a lineage                  |
 | sustainable *adj*              | environmentally friendly          |
 | sole *adj*                    | only, single         |
-| a blueprint *n*                    | a plan, design         |
-|                     |          |
-|                     |          |
-|                    |         |
-|                     |          |
+| the blueprint *n*                    | a plan, design         |
+| to harvest *v*                    | to collect         |
+| the pathway *n*                    | the path         |
+| acquired *adj*                   | obtained         |
+| the gut *n*                    | the belly         |
+| clue *n*                    | hint, evidence         |
+| scalability *n*                    | ability to adapt          |
+
 
 
 ## Analysis table
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Shmuel Gleizer,                          |
+| Researchers                  | Researchers in Israel                          |
 | Published in?                | November 27th 2019 in *sciencedaily*                                                      |
-| General topic?               |                       |
-| What was examined?       |       |
-| Conclusions/discovery?       |        |
-| Remaining questions?         |        |
+| General topic?               | A team of researchers have isolated a strain of bacteria capable of using atmospheric CO2 in their metabolism.                      |
+| What was examined?       | The challenge is to cause mutations in E. coli so that the bacteria pass from an heterotrophic pathway to an autotrophic pathway. Researchers have determined a specific laboratory protocol to accomplish their goal. The study is a success. By sequencing the genome of the autotrophic bacteria, the researchers discovered eleven mutations which allowed the artificial evolution of the bacteria.      |
+| Conclusions/discovery?       | This bacteria strain could be used for sustainable production of food and fuel. But more reseach is needed for an industrial approach.      |
+| Remaining questions?         | Will uses of these bacteria be effective enough to reduce CO2 emissions?       |
 
 
 
-<www.sciencedaily.com/releases/2019/11/191127161450.htm>
+<https://www.sciencedaily.com/releases/2019/11/191127161450.htm>
 
