@@ -1,0 +1,48 @@
+---
+title: "Article 5 : Laboratory-evolved bacteria switch to consuming carbon dioxide for growth"
+description: |
+  A short description of the post.
+author:
+  - name: Hoegener Victor
+    url: {}
+date: 12-15-2019
+preview: images/E-coli.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| a strain *n*  | a new variety of, a lineage                   |
+| sustainable *adj*              | environmentally friendly          |
+| sole *adj*                    | only, single         |
+| a blueprint *n*                    | a plan, design         |
+|                     |          |
+|                     |          |
+|                    |         |
+|                     |          |
+
+
+## Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Shmuel Gleizer,                          |
+| Published in?                | November 27th 2019 in *sciencedaily*                                                      |
+| General topic?               |                       |
+| What was examined?       |       |
+| Conclusions/discovery?       |        |
+| Remaining questions?         |        |
+
+
+
+<www.sciencedaily.com/releases/2019/11/191127161450.htm>
+

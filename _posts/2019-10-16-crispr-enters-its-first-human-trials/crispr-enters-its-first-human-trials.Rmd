@@ -37,7 +37,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Tina Hensman Saey, senior staff writer on molecular biology for ScienceNews                        |
-| Published in?                | September 16, 2019                                                       |
+| Published in?                | September 16th 2019 in *sciencenewsforstudents*                                                       |
 | General topic?               |  The article shows the fields of study that employ the technology of Crispr-Cas 9. This method would cure hereditary diseases                      |
 | What was examined?       |  Some animals were cured thanks to Crisper-Cas9 method. Now reseachers are making human trials to cure deseases. Firstly, the studies are trying to get a treatment for sickle-cell disease and beta-thalassemia. Simply, the scientists take the patient's sick cells and Crisper-Cas9 edits the genome of the cells, the edited cells return to the sick patient. Two patients have already received a treatment. Another way of working but much more difficult is to edit cells into the body. Editas Medicine of Cambridge works on the gene known as CEP290, responsible for blindness.      |
 | Conclusions/discovery?       |  This technology has yet to prove conclusive results      |

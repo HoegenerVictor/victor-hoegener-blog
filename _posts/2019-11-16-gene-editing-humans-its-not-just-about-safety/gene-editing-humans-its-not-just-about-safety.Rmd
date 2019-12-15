@@ -39,7 +39,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | By Mildred Z. Solomon                        |
-| Published in?                | August 20, 2019                                                       |
+| Published in?                | August 20th 2019 in *scientific american*                                                      |
 | General topic?               | The scientific community wants to set limits on the experiments made on the human germ line. Indeed, in the past two years, Chinese and Russian researchers have shocked the world by trying to manipulate human embryos.                      |
 | What was examined?       | The article addresses two aspects, on the one hand the development of technologies to modify the genome, which are not fully understood and which can have side effects. On the other hand, the impact of these technologies on future generations. This is why organizations come together to discuss ethical issues. If we succeed in modifying the germ line safely, humanity will want to apply it unhealthily. For example, it will be possible to "strengthen" humanity as we want, select our children's characters and cure diseases to the source. As Michael Sandel of Harvard University said, "we would lose the sense of children as gifts to feed as they come to us and see them as objects we have designed." If the subject is debated, it is because we must sensitize the population of the implications of these new technologies.
      |
