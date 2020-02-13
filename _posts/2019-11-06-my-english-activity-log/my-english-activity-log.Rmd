@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-  November 7th: I discoverd the application LyricsTraining which is so fun to use. 
+  ovember 7th: I discoverd the application LyricsTraining which is so fun to use. 
 
   November 29th: I browse the book *Evolution the whole story* to learn more about prehistoric animals.
 
@@ -24,9 +24,9 @@ knitr::opts_chunk$set(echo = FALSE)
   
   December 7th: I watched *Imitation Game* in original version. The story takes place in America during World War II. We are following the life of Alan Turing in the construction of Enigma, a machine able to translate nazi codes. 
 
+  February 8th: I watched the Star Wars series *"the Mandalorian"* entirely in English. I loved it because this universe is so inspiring and also because the story is pleasing to follow. I recommand it...
 
-
-
+  February 13rd: On February 9 was held the 92 nd Oscar ceremony. Occasion during which the films of 2019 are rewarded, all presented as a Hollywood show. It is interesting to see the films which have pleased the population the most.
 
 
 

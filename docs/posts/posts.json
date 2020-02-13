@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-13-bacteria-engineered-to-protect-bees-from-pests-and-pathogens/",
+    "title": "Article 6: Bacteria engineered to protect bees from pests and pathogens",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Hoegener Victor",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-13",
+    "categories": [],
+    "preview": "posts/2020-02-13-bacteria-engineered-to-protect-bees-from-pests-and-pathogens/images/honey_bees.jpg",
+    "last_modified": "2020-02-13T17:24:43+01:00"
+  },
+  {
     "path": "posts/2019-12-15-laboratory-evolved-bacteria-switch-to-consuming-carbon-dioxide-for-growth/",
     "title": "Article 5 : Laboratory-evolved bacteria switch to consuming carbon dioxide for growth",
     "description": "Researchers have discovered a strain of E. coli that can use CO2 as energy for metabolism. This discovery paves the way for carbon-neutral industrial production.",
@@ -57,7 +72,7 @@
     "date": "2019-11-06",
     "categories": [],
     "preview": "posts/2019-11-06-my-english-activity-log/images/english_logo.jpg",
-    "last_modified": "2019-12-09T12:52:52+01:00"
+    "last_modified": "2020-02-13T15:53:31+01:00"
   },
   {
     "path": "posts/2019-10-28-what-your-dna-cant-tell-you/",

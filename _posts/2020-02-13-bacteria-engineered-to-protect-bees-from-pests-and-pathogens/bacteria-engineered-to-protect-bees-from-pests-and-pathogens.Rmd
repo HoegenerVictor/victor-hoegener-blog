@@ -1,0 +1,53 @@
+---
+title: "Article 6: Bacteria engineered to protect bees from pests and pathogens"
+description: |
+  A short description of the post.
+author:
+  - name: Hoegener Victor
+    url: {}
+date: 02-13-2020
+preview: images/honey_bees.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| dwindling *adj*  | decreasing, which diminishes                  |
+| beekeeper *n*         | person who farms bees          |
+| the guts *n*                    | the intestines         |
+| factory *n*                    | a place where workers are producing |
+| to pump out *v*                    | to produce, to emit (sth)       |
+| a mite *n*                    | a small creature         |
+| the pests *n*            | insects which are harmful, parasites      |
+| to scale up (sth) *v*                    | to increase, upsize       |
+| straightforward *adj*                    | unambiguous         |
+| scalability *n*                    | ability to adapt          |
+| a crop *n*                    | something cultivated          |
+
+
+## Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Scientists from the University of Texas at Austin, Nancy Moran (primary investigator on the study), Sean Leonard (first author of the study)                          |
+| Published in?                | January 30th 2020 in *sciencedaily*                                                      |
+| General topic?               | American researchers have developed a genetically modified bacterium to protect honey bees from a colony collapse.                      |
+| What was examined?       | It's known that honey bees are in danger. According to recent reports, their numbers are decreasing fast year after year. These little animals are essential for ecosystems balance. Researchers have designed a bacteria that lives in the animal's intestinal system. The two main factors that destroy bee colonies are varroa mites and wing virus. Bee test found that a certain percentage lived longer than if treatment was not used. Above all, the use of the genetically modified strain bacteria should not greatly affect the ecosystem because they are specific to the bee microbiome      |
+| Conclusions/discovery?       | A solution to limit the collapse of bee colonies exists.      |
+| Remaining questions?         | Is the releasing of these genetically modified bacteria without risk for the balance of ecosystems?       |
+
+
+
+University of Texas at Austin. "Bacteria engineered to protect bees from pests and pathogens." ScienceDaily. ScienceDaily, 30 January 2020.
+
+<https://www.sciencedaily.com/releases/2020/01/200130144335.htm>
+
