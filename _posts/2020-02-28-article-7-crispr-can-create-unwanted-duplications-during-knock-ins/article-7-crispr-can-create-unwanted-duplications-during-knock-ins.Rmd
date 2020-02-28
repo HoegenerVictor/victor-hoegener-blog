@@ -1,0 +1,20 @@
+---
+title: "Article 7 : CRISPR Can Create Unwanted Duplications During Knock-ins"
+description: |
+  A short description of the post.
+author:
+  - name: Hoegener Victor
+    url: {}
+date: 02-28-2020
+preview: images/crispr-banner-x.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<https://www.the-scientist.com/news-opinion/crispr-can-create-unwanted-duplications-during-knock-ins-67126>
+

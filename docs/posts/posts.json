@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-02-28-article-7-crispr-can-create-unwanted-duplications-during-knock-ins/",
+    "title": "Article 7 : CRISPR Can Create Unwanted Duplications During Knock-ins",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Hoegener Victor",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-28",
+    "categories": [],
+    "preview": "posts/2020-02-28-article-7-crispr-can-create-unwanted-duplications-during-knock-ins/images/crispr-banner-x.png",
+    "last_modified": "2020-02-28T11:27:45+01:00",
+    "preview_width": 1800,
+    "preview_height": 720
+  },
+  {
     "path": "posts/2020-02-13-bacteria-engineered-to-protect-bees-from-pests-and-pathogens/",
     "title": "Article 6: Bacteria engineered to protect bees from pests and pathogens",
     "description": "A short description of the post.",
