@@ -1,7 +1,7 @@
 ---
 title: "Article 7 : CRISPR Can Create Unwanted Duplications During Knock-ins"
 description: |
-  A short description of the post.
+  Undetectable mutations using conventional methods questions the reliability of Crispr Cas 9.
 author:
   - name: Hoegener Victor
     url: {}
@@ -15,6 +15,38 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| tweak *n*  | slight modification                  |
+| cautionary *adj*              | warning          |
+| to entail *v*                    | involve, require         |
+| to flank (sth/sb) *v*                    | be at the side of         |
+| to excise (sth) *v*                    | to edit out         |
+| knockout *n*                    | elimination         |
+| knocked out *adj*                   | made unconscious         |
+| pup *n*                    | abbrevation of puppy         |
+| offspring *n*                    | young of an animal, child/children|
+| to overlook (sth/sb) *v*  | not notice, not realize importance of   |
+| to breed *v*                    | procreate          |
+| to lurk *v*                    | wait hidden          |
+| untoward *adj*                    | inappropriate          |
+| to delve into (sth) *v*          | investigate, research          |
+
+
+## Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Reseachers at the University of Münster, Johannes Roth, Boris Skryabin and Timofey Rozhdestvensky                          |
+| Published in?                | February 19th 2020 in *TheScientist*                                                      |
+| General topic?               | Undetectable mutations using conventional methods questions the reliability of Crispr Cas 9.                      |
+| What was examined?       | Researchers reveal through a study that Crispr Cas 9 brings problems that are difficult to detect with a simple PCR analysis. Indeed, when we edit genes inserted in mice, unwanted genes are modified and duplicated. The study carried out on mice with molecular biology techniques. The duplication of these mutations can't be detected with classic methods. There could be negative consequences in human gene therapy.      |
+| Conclusions/discovery?       | Crispr Cas 9 is a great tool, but laboratories has to keep the accuracy of their mesures and researchers have to be aware issues can occur.      |
+| Remaining questions?         | Researchers don't have a perfect understanding of Crispr Cas9. Does improving the precision of the method reduce the risk of mutations?       |
+
 
 <https://www.the-scientist.com/news-opinion/crispr-can-create-unwanted-duplications-during-knock-ins-67126>
 
