@@ -1,7 +1,7 @@
 ---
 title: "Article 6: Bacteria engineered to protect bees from pests and pathogens"
 description: |
-  A short description of the post.
+  American researchers have developed a genetically modified bacterium to protect honey bees from a colony collapse
 author:
   - name: Hoegener Victor
     url: {}
@@ -40,7 +40,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Scientists from the University of Texas at Austin, Nancy Moran (primary investigator on the study), Sean Leonard (first author of the study)                          |
 | Published in?                | January 30th 2020 in *sciencedaily*                                                      |
-| General topic?               | American researchers have developed a genetically modified bacterium to protect honey bees from a colony collapse.                      |
+| General topic?               | American researchers have developed a genetically modified bacterium to protect honey bees from a colony collapse                      |
 | What was examined?       | It's known that honey bees are in danger. According to recent reports, their numbers are decreasing fast year after year. These little animals are essential for ecosystems balance. Researchers have designed a bacteria that lives in the animal's intestinal system. The two main factors that destroy bee colonies are varroa mites and wing virus. Bee test found that a certain percentage lived longer than if treatment was not used. Above all, the use of the genetically modified strain bacteria should not greatly affect the ecosystem because they are specific to the bee microbiome      |
 | Conclusions/discovery?       | A solution to limit the collapse of bee colonies exists.      |
 | Remaining questions?         | Is the releasing of these genetically modified bacteria without risk for the balance of ecosystems?       |
